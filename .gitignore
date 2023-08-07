@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+data/
+jupyter-lsp-notebook.json
+jupyterlab.json
+jupyter_server_terminals.json
+jupyter-lsp-jupyter-server.json
+jupyterlab.json
+notebook_shim.json
+pyvenv.cfg
+Scripts/
+share/
+jupyterlab-plotly.json
 # Distribution / packaging
 .Python
 build/

@@ -1,0 +1,11 @@
+polars
+plotly
+jupyterlab
+arrow
+pandas
+numpy
+yfinance
+pandas-datareader
+mplfinance
+pyarrow
+fastparquet
