@@ -9,3 +9,5 @@ pandas-datareader
 mplfinance
 pyarrow
 fastparquet
+finnhub-python
+limit
