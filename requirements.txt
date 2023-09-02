@@ -11,3 +11,6 @@ pyarrow
 fastparquet
 finnhub-python
 limit
+TA-Lib
+tqdm
+ipywidgets
